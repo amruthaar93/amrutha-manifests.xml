@@ -3,7 +3,7 @@
 
   <remote  name="Myremote"
            fetch=".."
-           review="https://github.com"/>
+           review="https://github.com"/amruthaar93>
   <default revision="master"
            remote="Myremote"
            sync-j="4" />
