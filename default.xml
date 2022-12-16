@@ -3,10 +3,10 @@
 
   <remote  name="Myremote"
            fetch=".."
-           review="https://github.com"/amruthaar93>
+          review="https://github.com" />
+  <remote name="aosp" fetch=".." revision="aosp-gerrit-url"/>
   <default revision="master"
            remote="Myremote"
            sync-j="4" />
 
-  <project path="android/amrutha-code" name="amruthaar93/amrutha-manifests.xml" >
-  </manifest>
+  <project path="android/amrutha-code" name="amruthaar93/amrutha-manifests.xml" remote="https://github.com" revision="master" / >
