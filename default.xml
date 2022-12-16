@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="Myremote"
+           fetch=".."
+           review="https://github.com"/>
+  <default revision="master"
+           remote="Myremote"
+           sync-j="4" />
+
+  <project path="build/make" name="platform/build" groups="pdk" >
+  </manifest>
