@@ -1,0 +1,1 @@
+# amrutha-manifests.xml
