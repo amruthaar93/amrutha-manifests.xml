@@ -8,5 +8,5 @@
            remote="Myremote"
            sync-j="4" />
 
-  <project path="build/make" name="platform/build" groups="pdk" >
+  <project path="android/amrutha-code" name="amruthaar93/amrutha-manifests.xml" >
   </manifest>
